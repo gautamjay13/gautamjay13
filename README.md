@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Figma<br>🎯 Goals: Learn DSA <br>🎲 Fun fact:Between thumbnails, tags, titles, scripts, and optimization — you’re not “trying things,” you’re setting foundations 🧱🚀</p>
+<p align="left">📚 I'm currently learning Figma<br>🎯 Goals: Learn DSA <br>🎲 Fun fact: Between thumbnails, tags, titles, scripts, and optimization — you’re not “trying things,” you’re setting foundations 🧱🚀</p>
 
 ###
 
