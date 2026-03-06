@@ -74,7 +74,7 @@ My name is <b>Jay Gautam</b> <br>
 # 🐍 Snake Eating Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gautamjay13/gautamjay13/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/gautamjay13/gautamjay13/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
