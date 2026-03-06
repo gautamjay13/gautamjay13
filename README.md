@@ -49,15 +49,15 @@ My name is <b>Jay Gautam</b> <br>
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gautamjay13 &show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamjay13&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamjay13&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -66,7 +66,7 @@ My name is <b>Jay Gautam</b> <br>
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gautamjay13&theme=tokyo-night"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@ My name is <b>Jay Gautam</b> <br>
 # 🐍 Snake Eating Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/gautamjay13/gautamjay13/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -83,9 +83,9 @@ My name is <b>Jay Gautam</b> <br>
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/gautamjay13?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/gautamjay13?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=gautamjay13&style=for-the-badge&color=blue"/>
 
 </p>
 
