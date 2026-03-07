@@ -82,7 +82,7 @@ My name is <b>Jay Gautam</b> <br>
 
 <p align="center">
 
-<a href="https://your-portfolio-link.com">
+<a href="https://gautamjay13.github.io/RESUME-MAIN/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
