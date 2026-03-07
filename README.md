@@ -87,11 +87,11 @@ My name is <b>Jay Gautam</b> <br>
 <p align="center">
 
 <a href="https://gautamjay13.github.io/RESUME-MAIN/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://raw.githubusercontent.com/gautamjay13/gautamjay13/main/Jay-Gautam-Resume.pdf">
-<img src="https://img.shields.io/badge/Resume-Download%20CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/Download%20Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </p>
