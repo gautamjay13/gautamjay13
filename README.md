@@ -80,7 +80,7 @@ My name is <b>Jay Gautam</b> <br>
 ---
 
 
-# 🌐 Portfolio
+
 
 # 🌐 Portfolio & Resume
 
