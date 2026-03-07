@@ -80,17 +80,23 @@ My name is <b>Jay Gautam</b> <br>
 ---
 # 🌐 Portfolio & Resume
 
+# 🌐 Portfolio
+
 <p align="center">
 
 <a href="https://gautamjay13.github.io/RESUME-MAIN/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/gautamjay13/gautamjay13/raw/main/resume.pdf">
-<img src="https://img.shields.io/badge/Resume-Download%20CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</p>
+
+<p align="center">
+
+<a href="https://gautamjay13.github.io/RESUME-MAIN/">
+<img src="https://api.microlink.io/?url=https://your-portfolio-link.com&embed=screenshot.url&theme=dark"/>
 </a>
 
-</p> 
+</p>
 
 # 🏆 Badges
 
