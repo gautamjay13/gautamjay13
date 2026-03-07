@@ -90,7 +90,7 @@ My name is <b>Jay Gautam</b> <br>
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="Jaygautam original.pdf">
+<a href="https://raw.githubusercontent.com/gautamjay13/gautamjay13/main/Jay-Gautam-Resume.pdf">
 <img src="https://img.shields.io/badge/Resume-Download%20CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
