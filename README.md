@@ -111,7 +111,9 @@ My name is <b>Jay Gautam</b> <br>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://youtube.com/@jayrebuilt13?si=zf7QNBgBnsn2Kqh0">
+  <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
